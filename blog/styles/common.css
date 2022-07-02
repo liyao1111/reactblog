@@ -1,0 +1,27 @@
+body{
+    background-color: #f6f6f6;
+    /* background-color: red; */
+}
+/* ------------------------------------- */
+.comm-main{
+    margin-top: .5rem;
+
+}
+.comm-left{
+    background-color:#fff;
+    width: 1250px;
+    padding: .3rem;
+    border-radius: .3rem;
+    border-bottom: 1px solid #eee;
+  
+
+}
+.comm-right{
+    width: 300px;
+    background-color: #fff;
+    margin-left: .5rem;
+    padding: .3rem;
+    border-radius: .3rem;
+    border-bottom: 1px solid #eee;
+
+}

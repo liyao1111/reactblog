@@ -1,0 +1,12 @@
+.feature-div{
+    margin-top: .5rem;
+}
+.feature-div  span{
+    font-size: 1.5rem;   
+}
+.feature-div div{
+    border: 1px #ccc solid;
+    border-radius: .3rem;
+    margin-bottom:.3rem;
+    overflow: hidden;
+}
